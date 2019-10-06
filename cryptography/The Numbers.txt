@@ -1,0 +1,16 @@
+_____
+Solve
+-----
+The numbers...what do they mean?
+link:https://2019shell1.picoctf.com/static/eb3589c566dd3f809908053460acb817/the_numbers.png
+
+_____
+Hints
+-----
+The flag is in the format PICOCTF{}
+_________
+Solution
+---------
+It's simple alphabet game for example 1 = a, 2 = b and so on,
+
+PICOCTF{THENUMBERSMASON}

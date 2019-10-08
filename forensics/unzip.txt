@@ -1,0 +1,18 @@
+_____
+Solve
+-----
+Can you unzip this file and get the flag?
+
+https://2019shell1.picoctf.com/static/37762a7e5774d7d6c1bc79e8e1758ef9/flag.zip
+_____
+Hints
+-----
+put the flag in the format picoCTF{XXXXX}
+________
+Solution
+--------
+
+just unzip the file using unzip utility
+flag is
+
+picoCTF{unz1pp1ng_1s_3a5y}

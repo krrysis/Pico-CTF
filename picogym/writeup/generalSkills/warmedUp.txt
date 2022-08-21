@@ -1,0 +1,15 @@
+Title: warmed up 
+_____
+
+Description:
+What is 0x3D (base 16) in decimal (base 10)?
+
+_____
+
+Solution:
+
+(kali㉿kali)-[~]
+└─$ print $((16#3D)) 
+61
+
+picoCTF{61}

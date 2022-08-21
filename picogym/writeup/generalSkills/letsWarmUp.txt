@@ -1,0 +1,18 @@
+Title: lets warm up 
+_____
+
+Description:
+If I told you a word started with 0x70 in hexadecimal, what would it start with in ASCII? 
+
+_____
+
+Solution:
+convert hex to ascii
+
+(kali㉿kali)-[~]
+└─$ print '\x70' 
+p
+
+picoCTF{p}
+
+

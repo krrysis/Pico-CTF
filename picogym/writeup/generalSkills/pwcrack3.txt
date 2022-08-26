@@ -1,0 +1,20 @@
+Title: pw crack 3 
+_____
+
+Description:
+Can you crack the password to get the flag? Download the password checker here (https://artifacts.picoctf.net/c/24/level3.py) and you'll need the encrypted flag (https://artifacts.picoctf.net/c/24/level3.flag.txt.enc)  and the hash(https://artifacts.picoctf.net/c/24/level3.hash.bin) in the same directory too. There are 7 potential passwords with 1 being correct. You can find these by examining the password checker script.
+
+_____
+
+Solution:
+password is one of the possible password in the list 
+i manually tried all the passwords since the list was small, but if the list is large you have to isolate the function that checks the hash u generate with pass to the hash provided, simple modifications.
+when u find correct pass just feed it to py prog
+
+kali㉿kali)-[~/ctf/Pico-CTF/picogym]
+└─$ python level3.py
+Please enter correct password for flag: dba8
+Welcome back... your flag, user:
+picoCTF{m45h_fl1ng1ng_cd6ed2eb}
+
+

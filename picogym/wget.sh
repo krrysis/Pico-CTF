@@ -1,3 +1,4 @@
-wget https://artifacts.picoctf.net/c/60/level4.py
-wget https://artifacts.picoctf.net/c/60/level4.flag.txt.enc
-wget https://artifacts.picoctf.net/c/60/level4.hash.bin
+wget https://artifacts.picoctf.net/c/79/level5.py
+wget https://artifacts.picoctf.net/c/79/level5.flag.txt.enc
+wget https://artifacts.picoctf.net/c/79/level5.hash.bin
+wget https://artifacts.picoctf.net/c/79/dictionary.txt

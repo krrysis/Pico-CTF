@@ -1,0 +1,15 @@
+Title: runme.py 
+_____
+
+Description:
+Run the runme.py script to get the flag. Download the script with your browser or with wget in the webshell.
+https://artifacts.picoctf.net/c/86/runme.py
+
+_____
+
+Solution:
+
+(kali㉿kali)-[~/ctf/Pico-CTF/picogym]
+└─$ python runme.py 
+picoCTF{run_s4n1ty_run}
+

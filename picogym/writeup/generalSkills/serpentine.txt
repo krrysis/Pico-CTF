@@ -1,0 +1,17 @@
+Title: serpentine 
+_____
+
+Description:
+Find the flag in the Python script!
+https://artifacts.picoctf.net/c/94/serpentine.py
+
+_____
+
+Solution:
+
+change the code
+call print_flag() function in switch case when b is pressed
+
+What would you like to do? (a/b/c) b
+picoCTF{7h3_r04d_l355_7r4v3l3d_aa2340b2}
+

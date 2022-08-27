@@ -12,7 +12,7 @@ wget https://artifacts.picoctf.net/c/60/level4.hash.bin
 _____
 
 Solution:
-it happened what i feared the most in previous challenge i.e. pw crack 4, lazy me had to write a script to parse thru 100 password. most of the code can be borrowed from og file
+it happened what i feared the most in previous challenge i.e. pw crack 3, lazy me had to write a script to parse thru 100 password. Luckily most of the code can be borrowed from og file
 
 import hashlib
 
